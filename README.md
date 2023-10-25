@@ -11,6 +11,8 @@ horizontally and vertically and move. Both sides' pieces cannot eat each other a
 4. The player selects the cell as the moving position of the selected object horizontally or vertically using the <strong>right mouse button</strong>.
 5. Players can continue to move one of their pieces in one turn until they can trap the queen.
 
+   Link Demo : https://youtu.be/sCng1WS_m4I
+
 # How Bot Works
   This game is an implementation of the Best First Search concept where the queen will move based on a heuristic value. The heuristic value in question is the number of player pieces that can surround them in the cell in question. The queen will continue to move in turn randomly to cells with a heuristical value of zero. If there are no cells with a heuristic value of zero, the player is declared the winner and the game ends.
 
