@@ -13,3 +13,6 @@ horizontally and vertically and move. Both sides' pieces cannot eat each other a
 
 # How Bot Works
   This game is an implementation of the Best First Search concept where the queen will move based on a heuristic value. The heuristic value in question is the number of player pieces that can surround them in the cell in question. The queen will continue to move in turn randomly to cells with a heuristical value of zero. If there are no cells with a heuristic value of zero, the player is declared the winner and the game ends.
+
+# How To Run
+  Players can run this program through Command Prompt or Run in Visual Studio Code
