@@ -1,2 +1,2 @@
 # Surrond_The_Queen
-Simple game project made by python program Languange with GUI
+a simple game program project created using the python language
